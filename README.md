@@ -22,7 +22,8 @@ Features
 
 ##  Installation
 
-**Eclipse Update Site:** https://github.com/petercai/UMLMark-release/raw/main/release
+**Eclipse Update Site:** [![Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client](https://marketplace.eclipse.org/modules/custom/eclipsefdn/eclipsefdn_marketplace/images/btn-install.svg)](https://marketplace.eclipse.org/marketplace-client-intro?mpc_install=5717790)
+https://github.com/petercai/UMLMark-release/raw/main/release 
    
 _(Note that this URL may not work inside the browser, but **will** work in Eclipse.)_
    
